@@ -1,2 +1,5 @@
-Edited test2.txt file
-Check for edits
+Edited test2.txt again
+Check for edit
+This file has be updated in the new_branch
+Check for updates
+
